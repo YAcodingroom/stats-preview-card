@@ -25,7 +25,7 @@ Users should be able to:
 ![screenshot-mobile](screenshot/screenshot-mobile.png)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://yacodingroom.github.io/stats-preview-card/
 
 ## My process
 ### Built with
